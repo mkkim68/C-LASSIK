@@ -1,0 +1,26 @@
+{
+  "name": "plumber",
+  "version": "0.1.0",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.3",
+    "commitlint-config-git-commit-emoji": "^1.0.0",
+    "husky": "^8.0.3",
+    "eslint-config-prettier": "^8.6.0"
+  },
+  "scripts": {
+    "prepare": "husky install",
+    "lint": "prettier --check .",
+    "format": "prettier --write .",
+    "lint:fix": "eslint --fix"
+  },
+  "prettier": {
+    "trailingComma": "all"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx}": [
+      "npx prettier --write",
+      "echo \"npm run lint --prefix webapp --fix\""
+    ]
+  }
+}
