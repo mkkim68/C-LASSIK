@@ -1,0 +1,77 @@
+.env
+# Created by https://www.toptal.com/developers/gitignore/api/venv,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=venv,visualstudiocode
+
+### venv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+.jpg
+.jpge
+.png
+png
+jpg
+jpge
+venv
+pip-selfcheck.json
+.idea
+.data
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+.idea
+.ipynb_checkpoints
+.mypy_cache
+.vscode
+__pycache__
+.pytest_cache
+htmlcov
+dist
+site
+.coverage*
+coverage.xml
+.netlify
+test.db
+log.txt
+Pipfile.lock
+env3.*
+env
+docs_build
+site_build
+venv
+docs.zip
+archive.zip
+
+# vim temporary files
+*~
+.*.sw?
+.cache
+
+# macOS
+
+# End of https://www.toptal.com/developers/gitignore/api/venv,visualstudiocode

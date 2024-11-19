@@ -1,0 +1,75 @@
+version: '3.8'
+
+services:
+  604backend:
+    build: ./Classik_Backend
+    ports:
+      - "8080:8080"
+    depends_on:
+      604mysql:
+        condition: service_healthy
+      604redis:
+        condition: service_healthy
+    command: >
+      sh -c "until nc -z k11a604.p.ssafy.io 3306; do echo 'Waiting for MySQL...'; sleep 1; done;
+      java -jar app.jar"
+    environment:
+      - DB_HOST=k11a604.p.ssafy.io
+      - DB_PORT=3306
+      - DB_USER=root
+      - DB_PASSWORD=a604
+      - spring.data.redis.host=k11a604.p.ssafy.io
+      - spring.data.redis.port=6379
+      - spring.data.redis.playback_prefix=classik:playbacks
+    env_file:
+      - /var/lib/jenkins/workspace/604ound/Classik_Backend/.env
+    volumes:
+      - /var/lib/jenkins/workspace/604ound/Classik_Backend/.env:/app/.env
+    networks:
+      - 604network
+
+  604mysql:
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: a604
+      MYSQL_DATABASE: 604db
+    ports:
+      - "3306:3306"
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - 604network
+
+  604redis:
+    image: redis
+    ports:
+      - "6379:6379"
+    networks:
+      - 604network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      retries: 10
+  
+  604fastapi:
+    build:
+      context: ./Classik_AI/searchserver
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    depends_on:
+      - 604backend
+    networks:
+      - 604network
+    env_file:
+      - /home/ubuntu/S11P31A604/Classik_AI/searchserver/.env
+
+networks:
+  604network:
+    driver: bridge
+
+volumes:
+  jenkins_home: {}

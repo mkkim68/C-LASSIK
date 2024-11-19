@@ -1,0 +1,131 @@
+Cello Suite No. 1 in G Major, BWV 1007: I. Prélude	Johann Sebastian Bach	sophisticated,baroque,instrumental,classical,bach,cello
+Goldberg Variations, BWV 988: Aria	Johann Sebastian Bach	german,baroque,composer,instrumental,classical
+Overture (Suite) No. 2 in B Minor, BWV 1067: VII. Badinerie	Johann Sebastian Bach	german,baroque,instrumental,classical
+The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude	Johann Sebastian Bach	german,baroque,instrumental,classical
+Toccata and Fugue in D Minor	Johann Sebastian Bach	organ,baroque,instrumental,classical,bach
+Air on a G String	Johann Sebastian Bach	baroque,instrumental,classical,bach
+Toccata and Fugue in D minor, BWV 565: I. Toccata	Johann Sebastian Bach	baroque,instrumental,classical
+Siciliano (After "Erbarme dich" from Matthäus-Passion, BWV 244, No. 39)	Johann Sebastian Bach	german,baroque,instrumental,classical
+Chopin: Nocturne No. 20 in C-Sharp Minor, Op. posth.	Frédéric Chopin	piano,romantic,classical,classical
+Nocturne No. 2 in E-flat major, Op. 9 No. 2	Frédéric Chopin	piano,romantic,classical,impressionism
+Waltz No. 19 in A minor, Op. posth.	Frédéric Chopin	piano,romantic,classical,polish
+Nocturne Op. 9 No. 2	Frédéric Chopin	piano,romantic,romantic,classical,nocturne,romantic
+Nocturne No. 1 in B-flat minor, Op. 9 No. 1	Frédéric Chopin	piano,romantic,classical,polish
+Ballade No. 1 in G minor, Op. 23	Frédéric Chopin	piano,romantic,chopin,classical,classical
+Nocturne en mi bémol majeur, op. 9 no. 2	Frédéric Chopin	piano,romantic,instrumental,classical,classical
+Preludes, Op. 28: No. 4, Largo	Frédéric Chopin	piano,piano,romantic,instrumental,classical,piano
+Lacrimosa	Wolfgang Amadeus Mozart	composers,requiem,instrumental,classical,mozart,choral
+Piano Concerto No. 21 in C Major, K. 467: II. Andante	Wolfgang Amadeus Mozart	piano,composers,soothing,instrumental,classical,mozart
+Requiem in D Minor, K. 626: Sequence: VI. Lacrimosa dies illa	Wolfgang Amadeus Mozart	composers,classical,instrumental,classical
+Requiem, K. 626: Lacrimosa	Wolfgang Amadeus Mozart	classical,composers,instrumental,classical,classical
+Piano Sonata No. 16 in C major, K. 545 "Sonata Facile": I. Allegro	Wolfgang Amadeus Mozart	composers,classical,instrumental,classical
+Symphony No. 25 in G Minor, K. 183: I. Allegro con brio	Wolfgang Amadeus Mozart	composers,instrumental,classical,mozart
+Serenade in B-flat major, K. 361 "Gran Partita": III. Adagio	Wolfgang Amadeus Mozart	composers,classical,instrumental,classical
+Fantasia in D Minor, K. 397	Wolfgang Amadeus Mozart	classical,composers,instrumental,classical,classical,mozart
+Symphony No. 40 in G Minor, K. 550: I. Molto allegro	Wolfgang Amadeus Mozart	composers,instrumental,classical,mozart
+Sonata No. 14 "Moonlight" in C-Sharp Minor", Op. 27 No. 2: I. Adagio sostenuto	Ludwig van Beethoven	beautiful,romantic,instrumental,sad,classical
+Bagatelle No. 25 in A minor, WoO 59 "Für Elise"	Ludwig van Beethoven	composers,romantic,instrumental,classical
+Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio	Ludwig van Beethoven	romantic,instrumental,classical,beethoven
+String Quartet No. 13 in B-flat major, Op. 130: II. Presto	Ludwig van Beethoven	romantic,instrumental,classical
+Symphony No. 7 in A Major, Op. 92: II. Allegretto	Ludwig van Beethoven	classical,romantic,instrumental,classical,classical
+Moonlight Sonata 1st Movement	Ludwig van Beethoven	beautiful,piano,romantic,instrumental,classical,classical
+Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156 by F. Christl)	Antonio Vivaldi	composers,baroque,instrumental,classical
+The Four Seasons: Concerto No. 4 in F Minor, RV 297 "L'inverno" (winter): I. Allegro non molto	Antonio Vivaldi	composers,baroque,instrumental,classical
+The Four Seasons: Concerto No. 2 in G Minor, RV 315 "L'estate" (summer): III. Presto	Antonio Vivaldi	composers,baroque,instrumental,classical
+Concerto For Strings In G Major, RV 151, "Alla Rustica": I. Presto	Antonio Vivaldi	baroque,instrumental,classical
+Cello Concerto in E minor, RV 409: II. Allegro	Antonio Vivaldi	composers,baroque,instrumental,classical
+Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": III. Presto	Antonio Vivaldi	composers,baroque,instrumental,classical
+Concerto No. 4 in F minor, Op. 8, RV 297, "L'inverno" (Winter): I. Allegro non molto	Antonio Vivaldi	composers,baroque,instrumental,classical
+The Four Seasons - Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": I. Allegro non molto	Antonio Vivaldi	composers,baroque,instrumental,classical
+Winter (from The Four Seasons)	Antonio Vivaldi	composers,baroque,instrumental,classical
+Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato	Pyotr Ilyich Tchaikovsky	russian,orchestra,romantic,romantical,classical
+Album for the Young, Op. 39: No. 3. Mamma (Maman)	Pyotr Ilyich Tchaikovsky	composers,russian,romantic,classical
+Six Pieces, Op. 51, TH 143: VI. Valse sentimentale. Tempo di Valse	Pyotr Ilyich Tchaikovsky	russian,romantic,classical,classical
+Variations on a Rococo Theme, Op. 33, TH 57: Var: VI. Andante	Pyotr Ilyich Tchaikovsky	russian,romantic,classical
+Swan Lake (Suite), Op. 20a, TH. 219: I. Scene - Swan Theme	Pyotr Ilyich Tchaikovsky	composers,russian,romantic,classical
+Clair de lune, L. 32	Claude Debussy	piano,impressionist,classical
+Clair de lune	Claude Debussy	debussy,piano,impressionist,classical
+Suite Bergamasque, L. 75: III. Clair de lune	Claude Debussy	piano,impressionist,instrumental,classical,impressionism,modernal
+Rêverie, L. 68	Claude Debussy	piano,classical,impressionist,classical,classical
+Rêverie, L. 68: Rêverie	Claude Debussy	classical,piano,impressionist,instrumental,classical,piano
+2 Arabesques: Arabesque No. 1	Claude Debussy	soundtrack,piano,impressionist,ether,classical
+Suite Bergamasque, L. 75: III. Clair de lune (Andante très expressif)	Claude Debussy	piano,impressionist,classical,french
+16 Waltzes, Op. 39 (1867 version): No. 3 in G-Sharp Minor	Johannes Brahms	german,composers,romantic,classical
+16 Waltzes, Op. 39: No. 9 in D minor	Johannes Brahms	classical,german,romantic,classical
+16 Waltzes, Op. 39: No. 15 in A flat major	Johannes Brahms	german,waltz,romantic,classical,classical,johannes brahms
+21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)	Johannes Brahms	german,composers,romantic,classical
+Hungarian Dance No. 5	Johannes Brahms	german,brahms,piano,romantic,instrumental,classical
+Ständchen, S. 560 (Trans. from Schwanengesang No. 4, D. 957)	Franz Schubert	classical,piano,romantic,classical,piano,die classical
+Schwanengesang, D.957: No. 4 Serenade	Franz Schubert	piano,composers,romantic,classical
+Minuet in A Major, D. 334	Franz Schubert	piano,romantic,classical
+Die Nacht (Arr. for Cello and Guitar by Anja Lechner and Pablo Márquez)	Franz Schubert	piano,composers,romantic,classical
+Winterreise, Op. 89, D. 911: No. 21, Tauschung (Arr. T. Zimmermann and H. Holl)	Franz Schubert	piano,composers,romantic,classical
+Ave Maria, D. 839	Franz Schubert	piano,composers,romantic,classical
+4 Impromptus, Op. 90, D.899: No. 4 in A Flat Major: Allegretto	Franz Schubert	piano,composers,romantic,classical
+Introduction et variations sur La belle meunière in E Minor, Op. 160, D. 802: III. Var. I	Franz Schubert	piano,composers,romantic,classical
+Carnival of the Animals: The Swan	Camille Saint-Saëns	romantic,classical,french
+The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)	Camille Saint-Saëns	piano,romantic,classical,french,cello
+Carnival of the Animals, R. 125: The Swan	Camille Saint-Saëns	romantic,classical,french
+Le carnaval des animaux, R. 125: 13. Le cygne	Camille Saint-Saëns	composers,romantic,composer,classical,french
+Le Cygne	Camille Saint-Saëns	mellow,romantic,classical,summer,french,sparkling
+Danse macabre, Op. 40, R.171	Camille Saint-Saëns	composers,romantic,classical,french
+Danse Macabre	Camille Saint-Saëns	romantic,instrumental,classical,classical,orchestral,french
+Piano Concerto No. 2 in C minor, Op. 18: 2. Adagio sostenuto	Sergei Rachmaninoff	piano,russian,romantic,classical
+12 Songs, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)	Sergei Rachmaninoff	piano,russian,romantic,classical
+Piano Concerto No. 2 in C minor, Op. 18: I. Moderato	Sergei Rachmaninoff	classical,piano,romantic,classical,classical
+Rhapsody on a Theme of Paganini, Op. 43: Variation No. 18 Andante cantabile	Sergei Rachmaninoff	piano,russian,romantic,classical
+Piano Concerto No. 2 in C minor, Op. 18: 1. Moderato	Sergei Rachmaninoff	classical,piano,romantic,instrumental,classical,classical
+Piano Concerto No. 2 in C minor, Op. 18: II. Adagio sostenuto	Sergei Rachmaninoff	classical,piano,romantic,classical,classical
+Prélude in C-sharp minor, Op. 3, No. 2	Sergei Rachmaninoff	piano,russian,romantic,classical
+Lyric Pieces, Book 1, Op. 12: Arietta	Edvard Grieg	piano,romantic,classical,edvard grieg,norwegian
+Lyric Pieces, Book 9, Op. 68: Badnlat (Cradle Song)	Edvard Grieg	composers,romantic,classical,norwegian
+Peer Gynt Suite No. 1, Op. 46: I. Morning Mood	Edvard Grieg	romantic,romantic,classical,norwegian
+Lyric Pieces, Book 1, Op. 12: I. Arietta	Edvard Grieg	composers,romantic,classical,norwegian
+Lyric Pieces, Book 5, Op. 54: Nocturne	Edvard Grieg	composers,romantic,classical,norwegian
+Peer Gynt Suite No. 1, Op. 46: IV. In the Hall of the Mountain King	Edvard Grieg	classical,great classicals kane,romantic,classical,focus,norwegian
+Peer Gynt, Op. 23: IV. In the Hall of the Mountain King	Edvard Grieg	romantic,instrumental,classical,dramatic,playful,norwegian,wicked
+Lyric Pieces Book I, Op. 12: No. 1 Arietta	Edvard Grieg	composers,romantic,classical,norwegian
+Antar (After N. Rimsky-Korsakov): No. 7. Ravel: Allegretto	Maurice Ravel	impressionist,composer,classical,french
+Miroirs: III. Une Barque sur l'océan	Maurice Ravel	impressionist,composer,classical,french
+Ravel: Pavane pour une infante défunte, M. 19	Maurice Ravel	impressionist,composer,classical,french
+Piano Concerto in G major, M. 83: II. Adagio assai	Maurice Ravel	impressionist,composer,classical,french
+Pavane Pour Une Infante Défunte, M. 19	Maurice Ravel	impressionist,composer,classical,french
+Jeux d'eau	Maurice Ravel	piano,impressionist,classical,ravel,classical,french
+à la manière de Borodine	Maurice Ravel	impressionist,composer,classical,french
+Daphnis et Chloe: Part III: Lever du jour	Maurice Ravel	impressionist,composer,classical,french
+Carnaval, Op. 9: No. 12. Chopin	Robert Schumann	piano,classical,romantic,classical,classical
+Kinderszenen, Op. 15: 7. Träumerei	Robert Schumann	german,piano,romantic,classical
+Kinderszenen, Op. 15: 1. Von fremden Ländern und Menschen	Robert Schumann	german,piano,romantic,classical
+Myrthen, Op. 25 - Version for Cello and Piano: XXIV. Du bist wie eine Blume	Robert Schumann	german,piano,romantic,classical
+Kinderszenen, Op. 15: No. 1, Von fremden Ländern und Menschen	Robert Schumann	piano,romantic,classical
+Kinderszenen, Op. 15: Träumerei (Arr. Lewin for Guitar)	Robert Schumann	german,piano,romantic,classical
+Serenade for Strings in E Major, Op. 22, B. 52: II. Tempo di valse	Antonín Dvořák	romantic,instrumental,classical,serenade,czech
+Serenade for Strings in E major, Op. 22, B. 52: IV. Larghetto	Antonín Dvořák	composers,romantic,classical,czech
+2 Pieces, Op. posth., B. 188: No. 1. Lullaby in G Major	Antonín Dvořák	composers,romantic,classical,czech
+Songs My Mother Taught Me (from "Gypsy Songs", Op. 55, No. 4)	Antonín Dvořák	composers,romantic,classical,czech
+Con Te Partirò	Andrea Bocelli	opera,classical,italian,andrea bocelli
+Vivo Per Lei	Andrea Bocelli	opera,bocelli,male vocalists,classical,italian
+Time to Say Goodbye	Andrea Bocelli	opera,classical,italian
+Quizás, Quizás, Quizás	Andrea Bocelli	opera,male vocalists,classical,italian,andrea bocelli
+Bésame Mucho	Andrea Bocelli	opera,classical,italian
+Vivo Por Ella (feat. KAROL G)	Andrea Bocelli	opera,classical,italian,karol g
+La Vie En Rose	Andrea Bocelli	opera,male vocalists,classical,italian,andrea bocelli
+Fall On Me	Andrea Bocelli	pop,opera,classical crossover,classical,italian
+Piano Concerto No. 2 in F Major, Op. 102: II. Andante	Dmitri Shostakovich	piano,contemporary classical,russian,concerto,classical,orchestral
+Jazz Suite No. 1: I. Waltz	Dmitri Shostakovich	contemporary classical,russian,classical,modernal
+String Quartet No. 8 in C Minor, Op. 110: 2. Allegro molto	Dmitri Shostakovich	contemporary classical,russian,classical,modernal
+Waltz No. 2	Dmitri Shostakovich	contemporary classical,russian,classical,dmitri shostakovich
+Jazz Suite No. 2: II. Lyric Waltz	Dmitri Shostakovich	contemporary classical,waltz,russian,classical,classical,orchestral
+Shostakovich / Arr. Atovmyan: Suite from the Gadfly, Op. 97a: VIII. Romance	Dmitri Shostakovich	contemporary classical,russian,classical,modernal
+The Second Waltz, Op. 99a	Dmitri Shostakovich	contemporary classical,russian,classical,modernal
+Piano Concerto No. 2 Op. 102 in F Major: II. Andante	Dmitri Shostakovich	contemporary classical,russian,classical,modernal
+Jazz Suite No. 2: VI. Waltz II	Dmitri Shostakovich	contemporary classical,russian,classical,modernal
+You Raise Me Up	Josh Groban	pop,love,classical,josh groban,vocal,easy listening,classical
+The Ballad of Sweeney Todd	Josh Groban	pop,musical,vocal,classical
+Evermore	Josh Groban	pop,vocal,classical,movie song,american,2017 single
+Dust and Ashes	Josh Groban	theatre,pop,musical,vocal,classical
+Pierre	Josh Groban	pop,opera,vocal,classical,easy listening
+Epiphany	Josh Groban	pop,opera,vocal,classical,easy listening
+Johanna (Act 2 Sequence)	Josh Groban	pop,opera,vocal,classical,easy listening
+O Holy Night	Josh Groban	pop,vocal,classical,christmas
+A Little Priest	Josh Groban	pop,opera,vocal,classical,easy listening
