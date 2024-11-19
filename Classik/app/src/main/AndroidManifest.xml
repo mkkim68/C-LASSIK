@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-feature android:name="android.hardware.vr.headtracking" android:required="true" />
+    <uses-feature android:name="oculus.software.eye_tracking" android:required="true" />
+    <uses-permission android:name="com.oculus.permission.SET_VR_DEVICE_PARAMS" />
+    <uses-permission android:name="com.oculus.permission.READ_VR_DEVICE_PARAMS" />
+    <!-- VR 관련 하드웨어 요구사항 설정 -->
+
+    <application
+        android:name=".ui.view.ClassikApplication"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/tcha_main"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/mozart_main"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Classik"
+        tools:targetApi="32">
+        <activity
+            android:name=".ui.view.MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Classik">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.unity3d.player.UnityPlayerActivity">
+            <meta-data android:name="com.oculus.vr.focusaware" android:value="true" />
+            <meta-data
+                android:name="unityplayer.UnityActivityBuild"
+                android:value="true" />
+        </activity>
+        <meta-data
+            android:name="com.oculus.intent.category.VR"
+            android:value="vr_only"/>
+        <meta-data
+            android:name="com.oculus.supportedDevices"
+            android:value="quest|quest2|questpro"/>
+    </application>
+
+</manifest>
