@@ -60,7 +60,7 @@ Track 데이터를 벡터화하여 ChromaDB에 저장하고, 검색어를 벡터
 
 음악 제목을 기반으로 OpenAI 모델에서 생성된 프롬프트를 활용해 Skybox API로 파노라마 이미지를 생성하고, 이를 S3에 저장한 뒤 관련 메타데이터를 데이터베이스에 연동합니다. OpenAI, 이미지 생성 기술, 클라우드 스토리지를 통합해 효율적인 데이터 관리와 이미지 제공을 구현했습니다.
 
-<img width="500" src="./readme/createimage.PNG">
+<img width="500" src="./readme/createimage.png">
 
 #### 파노라마 asset 결과
 
@@ -138,4 +138,4 @@ Track 데이터를 벡터화하여 ChromaDB에 저장하고, 검색어를 벡터
 |              |                                                            |
 | :----------: | ---------------------------------------------------------: |
 | Architecture | <img width="700" src="./readme/C-LASSIK_Architecture.png"> |
-|     ERD      |                   <img width="700" src="./readme/erd.png"> |
+|     ERD      |                   <img width="700" src="./readme/erd.PNG"> |
